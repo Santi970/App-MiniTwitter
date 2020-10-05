@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MiniTwitter</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="text_create_account">Si aun no tienes cuenta registrate aquí</string>
+    <string name="text_go_login">Si ya dispone de una cuenta inicie sesión aquí</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="button_registrarme">Registrarme</string>
+    <string name="buttonSignUp">Registrarme</string>
+    <string name="title_activity_dashborad">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_dash_board">MainActivity</string>
+    <string name="title_activity_dashboard">MainActivity</string>
+    <string name="title_activity_prueba">PruebaActivity</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="toolbar_titile_home">Inicio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buttonTwittear">Twittear</string>
+    <string name="hintMensajeNuevoTwitt">¿Qué está pasando?</string>
+    <string name="editTextUsername">Nombre de usuario</string>
+    <string name="editTextPassword">Contraseña actual</string>
+    <string name="buttonGuardar">Guardar</string>
+    <string name="buttonModContraseña">Modificar Contraseña</string>
+    <string name="editTextWebSite">Sitio Web</string>
+    <string name="editTextDescripcion">Descripción e intereses</string>
+</resources>
